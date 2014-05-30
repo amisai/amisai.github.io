@@ -47,6 +47,6 @@ I consider this project as in beta status: it works, and I'm using it:
 
 ![sample post](/images/sample_post.png)
 
-although I'll be doing a bit of babysitting during next weeks, just to check ... Only thing missing is that I'm publishing new posts in my personal account and I prefer to publish in [Aprendices Twitter account](https://twitter.com/deaprendices).
+although I'll be doing a bit of babysitting during next weeks, just to check ... These posts are being published in  [Aprendices Twitter account](https://twitter.com/deaprendices).
 
-By now, I'm not sure about sharing this project source code: it's very specific, I don't think it'll help anyone else, but I will (at github, for instance) if someone requests it.
+Just in case you need something like this, or if you want to know how it's done, I've published this project code in [my github](https://github.com/amisai/aprendicesPoster).

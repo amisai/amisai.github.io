@@ -1,0 +1,115 @@
+--- 
+layout: post 
+title: Enlaces de las semanas del 23/12/2011, 30/12/2011 y 06/01/2012 
+published: true 
+date: 2012-01-08 
+categories: [links]
+---
+
+Seguimos con la revisión semanal de algunas de las ideas que me llamaron la atención, recuperando el ritmo tras las vacaciones navideñas...
+
+JVM
+---
+-   Java SE Specifications: [http://docs.oracle.com/javase/cmn/spec\_index.html](http://docs.oracle.com/javase/cmn/spec_index.html)
+-   JBoss Application Server Downloads - JBoss Community: [http://www.jboss.org/jbossas/downloads/](http://www.jboss.org/jbossas/downloads/)
+-   Securing Java webapps:
+	-   Confusion in form based authentication in java - Stack Overflow:[http://stackoverflow.com/questions/2362581/confusion-in-form-based-authentication-in-java](http://stackoverflow.com/questions/2362581/confusion-in-form-based-authentication-in-java)
+	-   'Re: how speficy an exclusive context ssl' - MARC:[http://marc.info/?l=tomcat-user&m=104951559722619&w=2](http://marc.info/?l=tomcat-user&m=104951559722619&w=2)
+	-   Examples: Securing Web Applications - The Java EE 6 Tutorial: [http://docs.oracle.com/javaee/6/tutorial/doc/bncbx.html\#bncby](http://docs.oracle.com/javaee/6/tutorial/doc/bncbx.html#bncby)
+-   Spark - A small web framework for Java: [http://www.sparkjava.com/](http://www.sparkjava.com/)
+-   Scalad:[http://www.cakesolutions.org/scalad.html](http://www.cakesolutions.org/scalad.html)
+-   AJAX Java Framework for Rapid Development - OpenXava: [http://www.openxava.org/web/guest/home](http://www.openxava.org/web/guest/home)
+-   InfoQ: Everything I Ever Learned about JVM Performance Tuning @twitter: [http://www.infoq.com/presentations/JVM-Performance-Tuning-twitter\#.TvrzxHsPRUQ.twitter](http://www.infoq.com/presentations/JVM-Performance-Tuning-twitter#.TvrzxHsPRUQ.twitter)\
+
+Javascript
+----------
+-   jasmine-headless-webkit -- The fastest way to run your Jasmine specs!: [http://johnbintz.github.com/jasmine-headless-webkit/](http://johnbintz.github.com/jasmine-headless-webkit/)
+-   An acquired taste: [http://www.carlosble.com/2011/12/javascript-an-acquired-taste/](http://www.carlosble.com/2011/12/javascript-an-acquired-taste/)
+
+Otros lenguajes
+---------------
+-   Lua 5.2 Reference Manual - contents: [http://www.lua.org/manual/5.2/](http://www.lua.org/manual/5.2/)
+-   kikito/lua\_missions - GitHub: [https://github.com/kikito/lua\_missions](https://github.com/kikito/lua_missions)
+-   Giles Bowkett: Create Your Own Programming Language: [http://gilesbowkett.blogspot.com/2010/03/create-your-own-programming-language.html](http://gilesbowkett.blogspot.com/2010/03/create-your-own-programming-language.html)
+-   Redline Smalltalk: [http://www.redline.st/](http://www.redline.st/)
+-   smalltalk\_koans – Squeak Community Projects: [https://www.hpi.uni-potsdam.de/hirschfeld/trac/SqueakCommunityProjects/wiki/smalltalk\_koans](https://www.hpi.uni-potsdam.de/hirschfeld/trac/SqueakCommunityProjects/wiki/smalltalk_koans)
+
+Programación
+------------
+-   Basho: Basho Documentation: [http://wiki.basho.com/](http://wiki.basho.com/)
+-   TalkNotes: [http://martinfowler.com/bliki/TalkNotes.html](http://martinfowler.com/bliki/TalkNotes.html)
+-   Quick-R: Home Page: [http://www.statmethods.net/index.html](http://www.statmethods.net/index.html)
+-   Akoras blog: [http://www.akoras.com/es/blog](http://www.akoras.com/es/blog)
+-   Hubot: [http://hubot.github.com/](http://hubot.github.com/)
+-   Janky: [https://github.com/github/janky](https://github.com/github/janky)
+-   Feature injection: [http://www.agilejournal.com/articles/columns/column-articles/1472-feature-injection](http://www.agilejournal.com/articles/columns/column-articles/1472-feature-injection)
+-   Sonar » Measure Code Coverage by Integration Tests with Sonar: [http://www.sonarsource.org/measure-code-coverage-by-integration-tests-with-sonar/](http://www.sonarsource.org/measure-code-coverage-by-integration-tests-with-sonar/)
+-   JaCoCo - Maven Plug-in: [http://www.eclemma.org/jacoco/trunk/doc/maven.html](http://www.eclemma.org/jacoco/trunk/doc/maven.html)
+-   logging:
+	-   FLUME: [https://cwiki.apache.org/FLUME/index.html](https://cwiki.apache.org/FLUME/index.html)
+	-   Fluent: [https://github.com/fluent](https://github.com/fluent)
+	-   Syslog-ng: [https://github.com/bazsi/syslog-ng-3.4](https://github.com/bazsi/syslog-ng-3.4)
+	-   Mitre: [http://cee.mitre.org/](http://cee.mitre.org/)
+	-   Log4Json.java: [http://svn.apache.org/viewvc/hadoop/common/trunk/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/log/Log4Json.java?view=markup](http://svn.apache.org/viewvc/hadoop/common/trunk/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/log/Log4Json.java?view=markup)
+-   Remote access API - Hudson - Hudson Wiki
+	-   Post-receive-hudson: [https://github.com/stephenh/git-central/blob/master/server/post-receive-hudson](https://github.com/stephenh/git-central/blob/master/server/post-receive-hudson)
+	-   Remote access API: [http://wiki.hudson-ci.org/display/HUDSON/Remote+access+API](http://wiki.hudson-ci.org/display/HUDSON/Remote+access+API)
+	-   Configure or create hudson automatically: [http://stackoverflow.com/questions/3886892/configure-or-create-hudson-job-automatically](http://stackoverflow.com/questions/3886892/configure-or-create-hudson-job-automatically)
+-   What is the single most influential book every programmer should read? - Stack Overflow: [http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
+-   Proofs and types: [http://www.paultaylor.eu/stable/prot.pdf](http://www.paultaylor.eu/stable/prot.pdf)
+-   mikado method: [http://mikadomethod.wordpress.com/](http://mikadomethod.wordpress.com/)
+-   prefactoring: [http://en.wikipedia.org/wiki/Prefactoring](http://en.wikipedia.org/wiki/Prefactoring)
+-   SublimeText 
+	- Blog: [http://www.sublimetext.com/blog/](http://www.sublimetext.com/blog/)
+	-   9 reasons you must install sublime text 2 code like a: [http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a](http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a)[](http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a)
+
+Comunidad
+---------
+-   Spring I/O 2012, 16th-17th February 2012: [http://lanyrd.com/2012/springio-2012/](http://lanyrd.com/2012/springio-2012/)
+-   WDCNZ: The Developer Experience: [http://blog.pamelafox.org/2011/08/wdcnz-developer-experience.html](http://blog.pamelafox.org/2011/08/wdcnz-developer-experience.html)
+
+Gestión de equipos
+------------------
+-   Agile Retrospectives:
+-   Questioning the Big Bang Theory: The Case for Incremental Change | ALM Summit 2011 | Channel 9:
+    [http://channel9.msdn.com/Events/ALM-Summit/2011/Questioning-the-Big-Bang-Theory-The-Case-for-Incremental-Change](http://channel9.msdn.com/Events/ALM-Summit/2011/Questioning-the-Big-Bang-Theory-The-Case-for-Incremental-Change)
+-   InfoQ: Feature Bits: Enabling Flow Within and Across Teams: [http://www.infoq.com/presentations/Feature-Bits](http://www.infoq.com/presentations/Feature-Bits)
+-   Better Teams and Better Planning: [http://www.tvprojectmanagement.com/project-planning/better-teams-and-better-planning/](http://www.tvprojectmanagement.com/project-planning/better-teams-and-better-planning/)
+-   InfoQ: Jim McCarthy and 11 Commitments For a Shared Vision: [http://www.infoq.com/interviews/11-Commitments-Jim-McCarthy](http://www.infoq.com/interviews/11-Commitments-Jim-McCarthy)
+-   Amazon.com: Software for Your Head: Core Protocols for Creating and Maintaining Shared Vision: [http://www.amazon.com/Software-Your-Head-Protocols-Maintaining/dp/0201604566](http://www.amazon.com/Software-Your-Head-Protocols-Maintaining/dp/0201604566)
+
+Presentaciones
+--------------
+-   Ejemplo de argumentación inductiva Presentástico:
+    [http://www.presentastico.com/2011/12/20/ejemplo-de-argumentacion-inductiva/](http://www.presentastico.com/2011/12/20/ejemplo-de-argumentacion-inductiva/)
+
+Diseño de UI
+------------
+-   Android UI Design Patterns: [http://www.androiduipatterns.com/](http://www.androiduipatterns.com/)
+-   Skeleton: Beautiful Boilerplate for Responsive, Mobile-Friendly Development: [http://www.getskeleton.com/](http://www.getskeleton.com/)
+-   Lightbody's Corner: [http://blog.lightbody.net/post/12478721781/from-this-years-gtac-a-good-overview-of-kevin](http://blog.lightbody.net/post/12478721781/from-this-years-gtac-a-good-overview-of-kevin)
+
+ iOS (****Programación, ...)
+----------------------------
+-   Hello iOS Development | 8th Light:[http://blog.8thlight.com/eric-meyer/2011/12/19/hello-ios-development.html](http://blog.8thlight.com/eric-meyer/2011/12/19/hello-ios-development.html)
+-   Ash Furrow » Blog Archive » Learn How to Write iOS Apps:     [http://ashfurrow.com/2011/12/learn-how-to-write-ios-apps/](http://ashfurrow.com/2011/12/learn-how-to-write-ios-apps/)
+-   Spire Is The First Legal Siri Port For Older Generation iOS Devices -- AppAdvice: [http://appadvice.com/appnn/2011/12/spire-is-the-first-legal-siri-port-for-older-generation-ios-devices](http://appadvice.com/appnn/2011/12/spire-is-the-first-legal-siri-port-for-older-generation-ios-devices)
+
+Otros gadgets
+-------------
+-   Kinect Open Source Programming Secrets: [http://fivedots.coe.psu.ac.th/\~ad/kinect/index.html](http://fivedots.coe.psu.ac.th/~ad/kinect/index.html)
+
+Economía
+--------
+-   Siembra en Diciembre, cosecha el 2012 | Finanzas Personales Para Todos: [http://finanzaspersonalesparatodos.com/siembra-en-diciembre-cosecha-el-2012/](http://finanzaspersonalesparatodos.com/siembra-en-diciembre-cosecha-el-2012/)
+
+Espacio
+-------
+-   http://history.nasa.gov/ap08fj/photos/e/as08-13-2329.jpg
+
+Multimedia
+----------
+-   Tron: Legacy - Wikipedia, the free encyclopedia: [http://en.wikipedia.org/wiki/Tron:\_Legacy](http://en.wikipedia.org/wiki/Tron:_Legacy)
+-   Las 10 películas más decepcionantes de 2011: [http://cinemania.es/actualidad/noticias/11140/las-10-peliculas-mas-decepcionantes-de-2011](http://cinemania.es/actualidad/noticias/11140/las-10-peliculas-mas-decepcionantes-de-2011)
+-   'The artist': la pesadilla de un hombre acorralado por la tecnología: [http://www.elmundo.es/elmundo/2011/12/19/ciencia/1324285864.html](http://www.elmundo.es/elmundo/2011/12/19/ciencia/1324285864.html)
+
